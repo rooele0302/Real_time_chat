@@ -1,9 +1,3 @@
-# Real_time_chat
-
-Got it! Here’s an updated README.md that reflects the current state of your project without AWS, MongoDB, or Docker.
-
----
-
 # Real-Time Chat Application  
 A simple real-time chat application built using Node.js, Express.js, and Socket.io. This project enables real-time messaging between multiple users in a browser-based interface.
 
