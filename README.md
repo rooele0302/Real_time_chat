@@ -24,7 +24,7 @@ A simple real-time chat application built using Node.js, Express.js, and Socket.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/rooele0302/Real_time_chat
-cd chat-app
+cd Real_time_chat
 ```
 
 ### 2. Install Dependencies
